@@ -1,0 +1,11 @@
+{
+    "debug_mode": true,
+    "log_level": "verbose",
+
+    "collision_tolerance": 0.01,
+
+    "player_start_x": 2.5,
+    "player_start_y": 2.5,
+    "player_start_look_angle" : 0
+
+}
